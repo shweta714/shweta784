@@ -1,1 +1,6 @@
-addtional features updates in main branch
+
+additional features updates in main branch
+Feature: Task Prioritization
+Description: This feature will allow users to add tasks with due dates and priorities.
+Benefit: Helps users organize their work efficiently 
+
